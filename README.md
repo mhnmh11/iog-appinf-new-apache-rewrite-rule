@@ -36,14 +36,14 @@ Internal Teams
 
 ## Indicators
 
-|  SLI/SLO/SLA                              |   |   |
-| -SLI (Indicator)-                         | -SLO (OUR GOAL)- | -SLA (GOAL COMMUNICATED TO USER)- |
-|  ACK - receipt of Jira ticket in 48 hours | 95%              | 80%                               |
-|  Start work within a week                 | 60%              | 50%                               |
-|  Completion of task                       |   |   |
-|  - Complete information with in a week    | 95%              | 90%  |
-|  - Incomplete information within 3 weeks  | 85%              | 75%  |
-
+| SLI (Indicator)                              | SLO (Our Goal) | SLA (Goal Communicated to user)  |
+|----------------------------------------------|----------------|----------------------------------|
+| ACK – receipt of a jira ticket in 48 hours  |                |                                  |
+|                                              | 95%            | 80%                              |
+| Start work within a week                     | 60%            | 50%                              |
+| Completion of task                           |                |                                  |
+| - Complete information – within a week       | 95%            | 90%                              |
+| - Incomplete information – within 3 weeks    | 85%            | 75%                              |
 
 ## Dependancies
 
